@@ -1,0 +1,14 @@
+body{background-color: 	#white;}
+h1{font-size: 6%;}
+p{font-size: 1vw;}
+table{font-size: 1vw;}
+li{font-size: 1vw;}
+em{font-Size: 1.5vw;}
+hr{color: red;}
+img {
+  height:  20%;
+  width: auto;
+}
+img:hover {outline-color: red;
+outline-style: double;
+outline-width: medium;}
