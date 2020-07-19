@@ -1,0 +1,20 @@
+
+body{}
+.main{height:15vw;
+  background: linear-gradient(to right, grey 0%, black 100%);
+color:white;
+
+}
+
+  .main_image
+  {height:15vw;
+    float: left;
+    margin-right: 2vw;
+
+}
+ul{list-style-type: none;
+padding-left: 0;}
+.container-fluid{
+  border-style: ridge;
+
+}
