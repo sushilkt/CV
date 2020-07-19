@@ -1,20 +1,29 @@
-
-body{}
-.main{height:15vw;
-  background: linear-gradient(to right, grey 0%, black 100%);
-color:white;
-
+.main {height: 15vw;
+  margin-bottom: 5px;
 }
 
-  .main_image
-  {height:15vw;
-    float: left;
-    margin-right: 2vw;
-
+.miantext{height: 15vw;
+  padding-top: 25px;
 }
-ul{list-style-type: none;
-padding-left: 0;}
-.container-fluid{
-  border-style: ridge;
+
+.main_image{height:15vw;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-right: 25px;
+float: left;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.container-fluid {
+border-style: dotted;
+border-left: 0px;
+border-right: 0px;
+border-bottom: 0px;
+align:left;
 
 }
